@@ -65,18 +65,8 @@ This project analyzes customer data from a retail bank to predict churn and iden
 
 5. **Model Evaluation**  
    - Compared models using Accuracy, Precision, Recall, F1-Score, and ROC-AUC.  
-   - Plotted confusion matrices and ROC curves.  
-
----
-
-## Results
-| Model               | Accuracy | Precision | Recall | F1-Score | ROC-AUC |
-|---------------------|----------|-----------|--------|----------|---------|
-| Logistic Regression |          |           |        |          |         |
-| Random Forest       |          |           |        |          |         |
-| XGBoost             |          |           |        |          |         |
-
-*(Fill in with results from your notebook.)*  
+   - Plotted confusion matrices and ROC curves. 
+ 
 
 ---
 
