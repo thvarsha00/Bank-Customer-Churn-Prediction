@@ -1,0 +1,15 @@
+## Dataset
+
+- **Dataset Name:** Bank Customer Churn Dataset  
+- **Source:** [Kaggle - Bank Customer Churn Dataset](https://www.kaggle.com/datasets/shubhammeshram579/bank-customer-churn-prediction)  
+- **Rows:** 10,000  
+- **Columns:** 12 (demographic, financial, and behavioral features)  
+- **Target Variable:**  
+  - `0` → Customer stayed  
+  - `1` → Customer churned  
+
+**Key Features:**  
+- CustomerId, Geography, Gender, Age, Tenure  
+- Balance, Credit Score, Number of Products  
+- Has Credit Card, Is Active Member, Estimated Salary  
+- Exited (Churn indicator)  
